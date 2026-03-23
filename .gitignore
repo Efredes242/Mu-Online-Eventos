@@ -1,0 +1,8 @@
+.dev.vars
+.wrangler/
+node_modules/
+alarms.json
+character_sample.html
+awake.html
+test*.js
+local_telegram_bot.js
